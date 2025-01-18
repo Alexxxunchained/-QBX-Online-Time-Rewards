@@ -1,8 +1,9 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'MySowrd傅剑寒'
-description 'A virtual currency is automatically given to the player after a certain amount of time online and can be used to purchase items in certain stores.'
+name 'MySword_OnlineCoins'
+author 'MySword傅剑寒'
+description '通过挂机而自动获得赞助币的系统 Online time reward coins and buy some shit'
 
 shared_scripts {
     '@ox_lib/init.lua',
